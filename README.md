@@ -1,169 +1,157 @@
-# Adarsh Prakasan
+<div align="center">
 
-**Software Engineer | Full-Stack Developer | MERN Stack Developer | React Developer**
+# Hi, I'm Adarsh Prakasan 👋
 
-Software Engineer and Full-Stack Developer focused on building scalable, responsive, and user-centered web applications. I work across the frontend and backend using **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**.
+### Software Engineer | Full-Stack Developer | MERN Stack Developer | React.js & Next.js Developer
 
-I enjoy turning ideas into reliable digital products, solving technical problems, improving user experiences, and continuously learning modern web development practices.
+**Based in Dubai, UAE — Open to Full-Stack Development, React.js, and Node.js opportunities**
 
-**Portfolio:** https://adarshprakasan.vercel.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-adarshprakasan.vercel.app-1f3864?style=for-the-badge&logo=vercel&logoColor=white)](https://adarshprakasan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshprakasan)
+[![Email](https://img.shields.io/badge/Email-adarshp2911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshp2911@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/adarshprakasan?style=for-the-badge&color=181717&logo=github)](https://github.com/adarshprakasan)
 
----
-
-## About Me
-
-* Software Engineer and Full-Stack Developer with a strong focus on modern web applications
-* Experienced with **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, and MongoDB**
-* Interested in **frontend development, backend development, REST APIs, full-stack architecture, UI/UX, and performance optimization**
-* Experienced in building responsive interfaces and database-driven applications
-* Comfortable working with authentication, API integrations, role-based workflows, and Git-based development
-* Currently focused on strengthening my skills in scalable full-stack application development
+</div>
 
 ---
 
-## Technical Skills
+## 🧑‍💻 About Me
 
-### Frontend Development
+I'm a **Software Engineer and Full-Stack Developer** specializing in building scalable, responsive, and user-centered web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**.
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Responsive Web Design
-* UI Development
-* Accessibility
-* Performance Optimization
-
-### Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* API Integration
-* Authentication
-* Role-Based Access Control
-* Server-Side Development
-
-### Database
-
-* MongoDB
-* Database Design
-* CRUD Operations
-* Data Modeling
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vercel
-* Figma
-* Tailwind CSS
-* Material UI
+- 🔭 I build **full-stack web applications** using **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**
+- 🌐 Focused on **frontend development, backend development, API integration, database design, and UI/UX engineering**
+- 🔐 Experienced with **authentication, JWT, role-based access control (RBAC), and secure API architecture**
+- ⚡ Passionate about **performance optimization, clean code, and scalable software architecture**
+- 📍 Based in **Dubai, United Arab Emirates** — actively seeking **Full-Stack Developer / React Developer / MERN Stack Developer** roles
+- 🤝 Open to connecting with **recruiters, engineering teams, and startups** building real-world products
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### HospEasy
+**Frontend Development**
 
-A full-stack healthcare platform designed to simplify the process of discovering hospitals, departments, doctors, and managing outpatient appointments.
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, REST APIs
+**Backend Development**
 
-**Key Features:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-* Hospital and doctor discovery
-* OPD token booking and queue management
-* Doctor and staff workflows
-* Patient medical records
-* Authentication and role-based access
-* QR and barcode-based workflows
-* Doctor scheduling and availability
-* API-driven architecture
+**Database**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Globe Explorer
+**Tools & Platforms**
 
-An interactive world simulation and exploration application focused on presenting geographical and country-level information through an engaging interface.
-
-**Technologies:** React.js, TypeScript, Zustand, Tailwind CSS
-
-**Focus Areas:**
-
-* Interactive UI
-* State management
-* Data visualization
-* Responsive design
-* Component-based architecture
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## Development Focus
+## 🚀 Featured Projects
 
-I am particularly interested in:
+### 🏥 [HospEasy — Full-Stack Healthcare Platform](https://github.com/adarshprakasan)
+A full-stack **hospital and OPD appointment management platform** built with the **MERN stack**, designed to simplify hospital, department, and doctor discovery.
 
-* Full-Stack Web Development
-* MERN Stack Development
-* React.js Development
-* Next.js Development
-* TypeScript Development
-* REST API Development
-* Backend Engineering
-* Database-Driven Applications
-* Authentication & Authorization
-* Responsive Web Applications
-* UI/UX Engineering
-* Web Performance
-* Software Architecture
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · REST APIs · JWT Authentication
+
+- Hospital, department, and doctor discovery
+- OPD token booking and real-time queue management
+- Doctor and staff workflow management
+- Patient medical records with role-based access control
+- QR / barcode-based verification workflows
+- Doctor scheduling and availability management
+- Fully API-driven architecture with secure authentication
 
 ---
 
-## Currently Learning
+### 🌍 [Globe Explorer — Interactive World Data Visualization](https://github.com/adarshprakasan)
+An interactive **React.js + TypeScript** application for exploring country-level and geographical data through an engaging, data-rich interface.
 
-* Advanced TypeScript
-* Scalable Next.js applications
-* Backend architecture
-* API design and optimization
-* Advanced React patterns
-* Database optimization
-* Production-ready application development
-* Software engineering best practices
+**Tech Stack:** React.js · TypeScript · Zustand · Tailwind CSS
 
----
-
-## Career Interests
-
-I am interested in opportunities related to:
-
-**Software Engineering | Full-Stack Development | MERN Stack Development | Frontend Development | React Development | Next.js Development | Backend Development**
-
-I am particularly interested in working on products where engineering, usability, and problem-solving come together.
+- Interactive, component-based UI
+- Global state management with Zustand
+- Data visualization for geographical information
+- Fully responsive design across devices
 
 ---
 
-## Connect With Me
+## 📈 GitHub Stats
 
-**Portfolio:**
-https://adarshprakasan.vercel.app/
+<div align="center">
 
-**LinkedIn:**
-https://linkedin.com/in/adarshprakasan
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshprakasan&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshprakasan&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshprakasan&hide_border=true)
 
-**GitHub:**
-https://github.com/adarshprakasan
-
-**Email:**
-[adarshp2911@gmail.com](mailto:adarshp2911@gmail.com)
+</div>
 
 ---
 
-## Open to Opportunities
+## 🎯 Development Focus
 
-I am open to connecting with **recruiters, software engineers, developers, startups, and technology teams** working on interesting products and real-world software engineering challenges.
+`Full-Stack Web Development` · `MERN Stack Development` · `React.js Development` · `Next.js Development` · `TypeScript Development` · `REST API Development` · `Backend Engineering` · `Database-Driven Applications` · `Authentication & Authorization` · `Responsive Web Applications` · `UI/UX Engineering` · `Web Performance Optimization` · `Software Architecture`
 
-If you're building something interesting, feel free to connect.
+## 📚 Currently Learning
+
+- Advanced TypeScript patterns
+- Scalable Next.js application architecture
+- Backend system design and API optimization
+- Advanced React design patterns
+- Database performance optimization
+- Production-ready, enterprise-grade application development
+
+---
+
+## 💼 Career Interests
+
+I'm actively looking for opportunities in:
+
+**Software Engineering · Full-Stack Development · MERN Stack Development · Frontend Development (React.js) · Backend Development (Node.js) · Next.js Development**
+
+I'm especially interested in roles and products where **engineering, usability, and problem-solving** intersect — and I'm open to relocating within or working from **Dubai, UAE**.
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adarshprakasan.vercel.app-1f3864?style=for-the-badge&logo=vercel&logoColor=white)](https://adarshprakasan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adarshprakasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshprakasan)
+[![GitHub](https://img.shields.io/badge/GitHub-adarshprakasan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshprakasan)
+[![Email](https://img.shields.io/badge/Email-adarshp2911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshp2911@gmail.com)
+
+**📧 Email me directly:** [adarshp2911@gmail.com](mailto:adarshp2911@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Opportunities
+
+I'm open to connecting with **recruiters, hiring managers, software engineers, startups, and technology teams** in Dubai and beyond who are building interesting products and solving real-world software engineering challenges.
+
+**If you're hiring a Full-Stack / MERN / React Developer — let's talk.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=adarshprakasan&color=1f3864&style=flat-square&label=Profile+Views)
+
+</div>
