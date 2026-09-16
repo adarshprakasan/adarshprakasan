@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adarsh Prakasan 👋
+# Adarsh Prakasan
 
 ### Software Engineer | Full-Stack Developer | MERN Stack Developer | React.js & Next.js Developer
 
@@ -15,20 +15,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Software Engineer and Full-Stack Developer** specializing in building scalable, responsive, and user-centered web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**.
 
-- 🔭 I build **full-stack web applications** using **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**
-- 🌐 Focused on **frontend development, backend development, API integration, database design, and UI/UX engineering**
-- 🔐 Experienced with **authentication, JWT, role-based access control (RBAC), and secure API architecture**
-- ⚡ Passionate about **performance optimization, clean code, and scalable software architecture**
-- 📍 Based in **Dubai, United Arab Emirates** — actively seeking **Full-Stack Developer / React Developer / MERN Stack Developer** roles
-- 🤝 Open to connecting with **recruiters, engineering teams, and startups** building real-world products
+- I build **full-stack web applications** using **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**
+- Focused on **frontend development, backend development, API integration, database design, and UI/UX engineering**
+- Experienced with **authentication, JWT, role-based access control (RBAC), and secure API architecture**
+- Passionate about **performance optimization, clean code, and scalable software architecture**
+- Based in **Dubai, United Arab Emirates** — actively seeking **Full-Stack Developer / React Developer / MERN Stack Developer** roles
+- Open to connecting with **recruiters, engineering teams, and startups** building real-world products
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend Development**
 
@@ -63,9 +63,9 @@ I'm a **Software Engineer and Full-Stack Developer** specializing in building sc
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 [HospEasy — Full-Stack Healthcare Platform](https://github.com/adarshprakasan)
+### [HospEasy — Full-Stack Healthcare Platform](https://github.com/adarshprakasan)
 A full-stack **hospital and OPD appointment management platform** built with the **MERN stack**, designed to simplify hospital, department, and doctor discovery.
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · REST APIs · JWT Authentication
@@ -80,7 +80,7 @@ A full-stack **hospital and OPD appointment management platform** built with the
 
 ---
 
-### 🌍 [Globe Explorer — Interactive World Data Visualization](https://github.com/adarshprakasan)
+### [Globe Explorer — Interactive World Data Visualization](https://github.com/adarshprakasan)
 An interactive **React.js + TypeScript** application for exploring country-level and geographical data through an engaging, data-rich interface.
 
 **Tech Stack:** React.js · TypeScript · Zustand · Tailwind CSS
@@ -92,7 +92,7 @@ An interactive **React.js + TypeScript** application for exploring country-level
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -104,11 +104,11 @@ An interactive **React.js + TypeScript** application for exploring country-level
 
 ---
 
-## 🎯 Development Focus
+## Development Focus
 
 `Full-Stack Web Development` · `MERN Stack Development` · `React.js Development` · `Next.js Development` · `TypeScript Development` · `REST API Development` · `Backend Engineering` · `Database-Driven Applications` · `Authentication & Authorization` · `Responsive Web Applications` · `UI/UX Engineering` · `Web Performance Optimization` · `Software Architecture`
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced TypeScript patterns
 - Scalable Next.js application architecture
@@ -119,7 +119,7 @@ An interactive **React.js + TypeScript** application for exploring country-level
 
 ---
 
-## 💼 Career Interests
+## Career Interests
 
 I'm actively looking for opportunities in:
 
@@ -129,7 +129,7 @@ I'm especially interested in roles and products where **engineering, usability, 
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -138,7 +138,7 @@ I'm especially interested in roles and products where **engineering, usability, 
 [![GitHub](https://img.shields.io/badge/GitHub-adarshprakasan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshprakasan)
 [![Email](https://img.shields.io/badge/Email-adarshp2911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshp2911@gmail.com)
 
-**📧 Email me directly:** [adarshp2911@gmail.com](mailto:adarshp2911@gmail.com)
+**Email me directly:** [adarshp2911@gmail.com](mailto:adarshp2911@gmail.com)
 
 </div>
 
@@ -146,7 +146,7 @@ I'm especially interested in roles and products where **engineering, usability, 
 
 <div align="center">
 
-### 🤝 Open to Opportunities
+### Open to Opportunities
 
 I'm open to connecting with **recruiters, hiring managers, software engineers, startups, and technology teams** in Dubai and beyond who are building interesting products and solving real-world software engineering challenges.
 
