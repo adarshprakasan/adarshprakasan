@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0f,100:2a2a30&height=230&text=Adarsh%20Prakasan&fontColor=f4f1ea&fontSize=56&fontAlignY=42&desc=Full-Stack%20Developer%20and%20Designer&descSize=18&descAlignY=64&descColor=c9a86a" alt="Adarsh Prakasan" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,45:1c1a17,100:c9a86a&height=280&section=header&text=Adarsh%20Prakasan&fontColor=f4f1ea&fontSize=62&fontAlignY=36&desc=Full-Stack%20Developer%20and%20Designer&descSize=19&descAlignY=56&descColor=f4f1ea&animation=fadeIn&stroke=c9a86a&strokeWidth=1" alt="Adarsh Prakasan" width="100%">
 
 <a href="https://github.com/adarshprakasan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1200&color=C9A86A&center=true&vCenter=true&width=620&height=30&lines=MERN+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;UI%2FUX+with+an+engineer%27s+mindset;Based+in+Dubai%2C+available+immediately" alt="Typing intro">
 </a>
 
-<br><br>
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-0d0d0f?style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=statuspage&logoColor=c9a86a)
+![Location](https://img.shields.io/badge/BASED_IN-DUBAI,_UAE-0d0d0f?style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=googlemaps&logoColor=c9a86a)
+![Availability](https://img.shields.io/badge/AVAILABLE-IMMEDIATELY-0d0d0f?style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=clockify&logoColor=c9a86a)
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0f?style=flat-square&logo=vercel&logoColor=c9a86a)](https://adarshprakasan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0f?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/adarshprakasan)
