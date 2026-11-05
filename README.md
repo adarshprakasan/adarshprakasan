@@ -45,8 +45,27 @@ languages  English, Malayalam, Hindi
 <tr>
 <td width="50%" valign="top">
 
-**Hospiq**<br>
-Hospital and OPD appointment platform with doctor discovery, token booking, live queues, patient records with role-based access, and QR verification.<br><br>
+**<a href="https://github.com/adarshprakasan/pocketdeck">PocketDeck</a>**<br>
+Customizable phone-to-browser control deck with QR pairing, computer-side approval, WebRTC data channels, and portable Windows and macOS packages.<br><br>
+<img src="https://img.shields.io/badge/Next.js-0d0d0f?style=flat-square&logo=nextdotjs&logoColor=f4f1ea" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/WebRTC-0d0d0f?style=flat-square&logo=webrtc&logoColor=f4f1ea" alt="WebRTC">
+
+</td>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/adarshprakasan/TouchFlow">TouchFlow</a>**<br>
+Phone-based wireless trackpad and keyboard for Windows, with local pairing, gesture controls, and a Python desktop companion. Available as an alpha release.<br><br>
+<img src="https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0d0d0f?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/adarshprakasan/Hospiq">Hospiq</a>**<br>
+Hospital and OPD appointment platform with doctor discovery, token booking, patient records, role-based access, and QR verification.<br><br>
 <img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Node.js-0d0d0f?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js">
 <img src="https://img.shields.io/badge/MongoDB-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
@@ -55,27 +74,51 @@ Hospital and OPD appointment platform with doctor discovery, token booking, live
 </td>
 <td width="50%" valign="top">
 
-**Globe Explorer**<br>
-Interactive explorer for country level and geographical data, with global state in Zustand and a fully responsive interface.<br><br>
+**<a href="https://github.com/adarshprakasan/globe-explorer">Globe Explorer</a>**<br>
+Interactive 3D globe with country selection, geographic data layers, D3 colour scales, and Zustand state management.<br><br>
 <img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind-0d0d0f?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Three.js-0d0d0f?style=flat-square&logo=threedotjs&logoColor=f4f1ea" alt="Three.js">
+<img src="https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a" alt="Zustand">
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Attendance Management System**<br>
-Full-stack application for tracking and managing attendance.<br><br>
-<img src="https://img.shields.io/badge/MERN-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248" alt="MERN">
+**<a href="https://github.com/adarshprakasan/world-simulator">World Simulator</a>**<br>
+Procedural world simulation with evolving nations, diplomacy, wars, an event feed, and historical charts.<br><br>
+<img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a" alt="Zustand">
+<img src="https://img.shields.io/badge/Recharts-0d0d0f?style=flat-square&logo=&logoColor=c9a86a" alt="Recharts">
+
+</td>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/adarshprakasan/kanban-board">Kanban Board</a>**<br>
+Task board with customizable columns, task editing, drag-and-drop ordering, and browser storage persistence.<br><br>
+<img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-0d0d0f?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/adarshprakasan/attendance-tracking-mern">Attendance Management System</a>**<br>
+MERN application for attendance workflows, with registration, email OTP verification, QR scanning, and image uploads.<br><br>
+<img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Node.js-0d0d0f?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js">
+<img src="https://img.shields.io/badge/MongoDB-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
 
 </td>
 <td width="50%" valign="top">
 
 **Portfolio**<br>
-Minimal single-page site built with Next.js, live at <a href="https://adarshprakasan.vercel.app">adarshprakasan.vercel.app</a>.<br><br>
+Design and Code modes, interactive project galleries, a WebGL hero, and theme switching. <a href="https://adarshprakasan.vercel.app">View live site</a>.<br><br>
 <img src="https://img.shields.io/badge/Next.js-0d0d0f?style=flat-square&logo=nextdotjs&logoColor=f4f1ea" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
 <img src="https://img.shields.io/badge/Vercel-0d0d0f?style=flat-square&logo=vercel&logoColor=f4f1ea" alt="Vercel">
 
 </td>
@@ -96,12 +139,19 @@ Minimal single-page site built with Next.js, live at <a href="https://adarshprak
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0f?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![Material UI](https://img.shields.io/badge/Material_UI-0d0d0f?style=flat-square&logo=mui&logoColor=0081CB)
 
+![Zustand](https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a)
+![Three.js](https://img.shields.io/badge/Three.js-0d0d0f?style=flat-square&logo=threedotjs&logoColor=f4f1ea)
+![D3.js](https://img.shields.io/badge/D3.js-0d0d0f?style=flat-square&logo=d3&logoColor=F9A03C)
+
 **Backend and Data**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0f?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d0d0f?style=flat-square&logo=express&logoColor=f4f1ea)
 ![REST](https://img.shields.io/badge/REST_APIs-0d0d0f?style=flat-square&logoColor=c9a86a)
 ![JWT](https://img.shields.io/badge/JWT_and_RBAC-0d0d0f?style=flat-square&logo=jsonwebtokens&logoColor=f4f1ea)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248)
+
+![Python](https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=3776AB)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d0d0f?style=flat-square&logo=webrtc&logoColor=f4f1ea)
 
 **Design and Tools**<br>
 ![Figma](https://img.shields.io/badge/Figma-0d0d0f?style=flat-square&logo=figma&logoColor=F24E1E)
@@ -111,6 +161,9 @@ Minimal single-page site built with Next.js, live at <a href="https://adarshprak
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d0f?style=flat-square&logo=github&logoColor=f4f1ea)
 ![Postman](https://img.shields.io/badge/Postman-0d0d0f?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-0d0d0f?style=flat-square&logo=vercel&logoColor=f4f1ea)
+
+![Vite](https://img.shields.io/badge/Vite-0d0d0f?style=flat-square&logo=vite&logoColor=646CFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0f?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 <br>
 
