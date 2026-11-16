@@ -19,25 +19,42 @@
 [![Email](https://img.shields.io/badge/Email-0d0d0f?style=flat-square&logo=gmail&logoColor=D14836)](mailto:adarshp2911@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0f?style=flat-square&logo=github&logoColor=f4f1ea)](https://github.com/adarshprakasan)
 
-</div>
-
 <br>
 
+<sub><a href="#-about">ABOUT</a> &nbsp;·&nbsp; <a href="#-selected-work">WORK</a> &nbsp;·&nbsp; <a href="#-stack">STACK</a> &nbsp;·&nbsp; <a href="#-journey">JOURNEY</a> &nbsp;·&nbsp; <a href="#-github">GITHUB</a> &nbsp;·&nbsp; <a href="#-contact">CONTACT</a></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
+
 ## ◆ About
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 I build web products with a designer's eye. I started in visual design and freelance work, earned a B.Tech in Computer Science and Engineering, and now work in full-stack development with the MERN stack and Next.js.
 
 I care about interfaces that feel considered and systems that stay clean underneath: secure authentication, role-based access and APIs that are easy to reason about.
 
+</td>
+<td width="45%" valign="top">
+
 ```text
-role       Full-Stack Developer (MERN)
+$ whoami
+role       Full-Stack Developer
+stack      MERN, Next.js, TypeScript
 based      Dubai, UAE
-status     Available immediately, on-site or hybrid
-focus      React, Next.js, Node.js, UI/UX
-languages  English, Malayalam, Hindi
+status     Available immediately
+mode       On-site or hybrid
+speaks     English, Malayalam, Hindi
 ```
 
-<br>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
 
 ## ◆ Selected Work
 
@@ -91,7 +108,7 @@ Procedural world simulation with evolving nations, diplomacy, wars, an event fee
 <img src="https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
 <img src="https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a" alt="Zustand">
-<img src="https://img.shields.io/badge/Recharts-0d0d0f?style=flat-square&logo=&logoColor=c9a86a" alt="Recharts">
+<img src="https://img.shields.io/badge/Recharts-0d0d0f?style=flat-square&logoColor=c9a86a" alt="Recharts">
 
 </td>
 <td width="50%" valign="top">
@@ -115,8 +132,8 @@ MERN application for attendance workflows, with registration, email OTP verifica
 </td>
 <td width="50%" valign="top">
 
-**Portfolio**<br>
-Design and Code modes, interactive project galleries, a WebGL hero, and theme switching. <a href="https://adarshprakasan.vercel.app">View live site</a>.<br><br>
+**<a href="https://adarshprakasan.vercel.app">Portfolio</a>**<br>
+Design and Code modes, interactive project galleries, a WebGL hero, and theme switching.<br><br>
 <img src="https://img.shields.io/badge/Next.js-0d0d0f?style=flat-square&logo=nextdotjs&logoColor=f4f1ea" alt="Next.js">
 <img src="https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
 <img src="https://img.shields.io/badge/Vercel-0d0d0f?style=flat-square&logo=vercel&logoColor=f4f1ea" alt="Vercel">
@@ -125,49 +142,49 @@ Design and Code modes, interactive project galleries, a WebGL hero, and theme sw
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
 
 ## ◆ Stack
 
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-0d0d0f?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0f?style=flat-square&logo=nextdotjs&logoColor=f4f1ea)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0f?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0f?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0f?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
-![Material UI](https://img.shields.io/badge/Material_UI-0d0d0f?style=flat-square&logo=mui&logoColor=0081CB)
+<table>
+<tr>
+<td width="110" valign="middle"><sub><b>FRONTEND</b></sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui,threejs,d3&theme=dark&perline=10" alt="Frontend stack">
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>BACKEND</b></sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py&theme=dark&perline=10" alt="Backend stack">
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>DESIGN</b></sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=figma,xd,blender&theme=dark&perline=10" alt="Design tools">
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>WORKFLOW</b></sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel,vite&theme=dark&perline=10" alt="Workflow tools">
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>ALSO</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a" alt="Zustand">
+<img src="https://img.shields.io/badge/WebRTC-0d0d0f?style=flat-square&logo=webrtc&logoColor=f4f1ea" alt="WebRTC">
+<img src="https://img.shields.io/badge/JWT_and_RBAC-0d0d0f?style=flat-square&logo=jsonwebtokens&logoColor=f4f1ea" alt="JWT and RBAC">
+<img src="https://img.shields.io/badge/REST_APIs-0d0d0f?style=flat-square&logoColor=c9a86a" alt="REST APIs">
+</td>
+</tr>
+</table>
 
-![Zustand](https://img.shields.io/badge/Zustand-0d0d0f?style=flat-square&logo=zustand&logoColor=c9a86a)
-![Three.js](https://img.shields.io/badge/Three.js-0d0d0f?style=flat-square&logo=threedotjs&logoColor=f4f1ea)
-![D3.js](https://img.shields.io/badge/D3.js-0d0d0f?style=flat-square&logo=d3&logoColor=F9A03C)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
 
-**Backend and Data**<br>
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0f?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d0d0f?style=flat-square&logo=express&logoColor=f4f1ea)
-![REST](https://img.shields.io/badge/REST_APIs-0d0d0f?style=flat-square&logoColor=c9a86a)
-![JWT](https://img.shields.io/badge/JWT_and_RBAC-0d0d0f?style=flat-square&logo=jsonwebtokens&logoColor=f4f1ea)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248)
-
-![Python](https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=3776AB)
-![WebRTC](https://img.shields.io/badge/WebRTC-0d0d0f?style=flat-square&logo=webrtc&logoColor=f4f1ea)
-
-**Design and Tools**<br>
-![Figma](https://img.shields.io/badge/Figma-0d0d0f?style=flat-square&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d0d0f?style=flat-square&logo=adobexd&logoColor=FF61F6)
-![Blender](https://img.shields.io/badge/Blender-0d0d0f?style=flat-square&logo=blender&logoColor=E87D0D)
-![Git](https://img.shields.io/badge/Git-0d0d0f?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0f?style=flat-square&logo=github&logoColor=f4f1ea)
-![Postman](https://img.shields.io/badge/Postman-0d0d0f?style=flat-square&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0f?style=flat-square&logo=vercel&logoColor=f4f1ea)
-
-![Vite](https://img.shields.io/badge/Vite-0d0d0f?style=flat-square&logo=vite&logoColor=646CFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0f?style=flat-square&logo=githubactions&logoColor=2088FF)
-
-<br>
-
-## ◆ Experience and Education
+## ◆ Journey
 
 | When | What |
 |:--|:--|
@@ -178,71 +195,51 @@ Design and Code modes, interactive project galleries, a WebGL hero, and theme sw
 | **Jan 2019 to Jul 2023** | Freelance Graphic and UI Designer |
 | **3 years** | IEEE Design Team lead at CETkr, also Webmaster and Electronic Communication Coordinator |
 
-<br>
+Outside of code: photography, videography and 3D work in Blender. IEEE Xtreme 15.0 participant. College projects include Eyemate, an assistive tool for the blind, and a Prisoner Face Identification System.
 
-## ◆ Beyond Code
-
-Photography, videography and 3D work in Blender. IEEE Xtreme 15.0 participant. College projects include Eyemate, an assistive tool for the blind, and a Prisoner Face Identification System.
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
 
 ## ◆ GitHub
 
 <div align="center">
 
-<!-- Row 1: streak + profile views -->
-<img src="https://streak-stats.demolab.com/?user=adarshprakasan&hide_border=true&background=0d0d0f&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&currStreakNum=f4f1ea&sideNums=f4f1ea&sideLabels=bdb8ad&dates=bdb8ad&stroke=2a2a30&border_radius=12" alt="GitHub streak" width="62%">
-
-<br><br>
-
-<!-- Row 2: overview cards (github-profile-summary-cards, themed to the gold palette) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshprakasan&theme=dark" alt="Profile details" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshprakasan&theme=dark" alt="GitHub stats" width="49%">
+<img src="https://streak-stats.demolab.com/?user=adarshprakasan&hide_border=true&background=0d0d0f&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&currStreakNum=f4f1ea&sideNums=f4f1ea&sideLabels=bdb8ad&dates=bdb8ad&stroke=2a2a30&border_radius=12" alt="GitHub streak" width="70%">
 
 <br>
 
-<!-- Row 3: language cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshprakasan&theme=dark" alt="Profile details" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshprakasan&theme=dark" alt="GitHub stats" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshprakasan&theme=dark" alt="Repos per language" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshprakasan&theme=dark" alt="Most used languages" width="49%">
 
-<br><br>
+<br>
 
-<!-- Row 4: contribution activity -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshprakasan&bg_color=0d0d0f&color=bdb8ad&line=c9a86a&point=f4f1ea&area=true&area_color=c9a86a&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" width="100%">
+
+<img src="https://raw.githubusercontent.com/adarshprakasan/adarshprakasan/output/github-snake-gold.svg" alt="Contribution snake" width="100%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adarshprakasan&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%">
 
 <br>
 
-<!-- Row 5: trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=adarshprakasan&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%">
-
-<br><br>
-
-<!-- Row 6: counters -->
 <img src="https://komarev.com/ghpvc/?username=adarshprakasan&label=PROFILE+VIEWS&color=c9a86a&style=for-the-badge&labelColor=1c1a17" alt="Profile views">
 <img src="https://img.shields.io/github/followers/adarshprakasan?label=FOLLOWERS&style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=github&logoColor=c9a86a" alt="Followers">
-<img src="https://img.shields.io/github/stars/adarshprakasan?affiliations=OWNER&label=STARS+EARNED&style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=github&logoColor=c9a86a" alt="Stars">
+<img src="https://img.shields.io/github/stars/adarshprakasan?affiliations=OWNER&label=STARS+EARNED&style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=github&logoColor=c9a86a" alt="Stars earned">
 
 </div>
 
-<!--
-OPTIONAL, never-breaks versions (need this README to live in the repo adarshprakasan/adarshprakasan):
-
-1) Self-generated metrics SVG (lowlighter/metrics Action, see workflow in chat).
-   Uncomment after the Action has run once:
-   <div align="center"><img src="./github-metrics.svg" alt="GitHub metrics" width="100%"></div>
-
-2) Contribution snake (Platane/snk Action writes to the "output" branch).
-   Uncomment after the Action has run once:
-   <div align="center"><img src="https://raw.githubusercontent.com/adarshprakasan/adarshprakasan/output/github-snake-dark.svg" alt="Contribution snake" width="100%"></div>
--->
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
 
 ## ◆ Currently Learning
 
-Advanced TypeScript, scalable Next.js architecture, backend system design and database performance.
+![TypeScript](https://img.shields.io/badge/Advanced_TypeScript-0d0d0f?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Scalable_Next.js_architecture-0d0d0f?style=flat-square&logo=nextdotjs&logoColor=f4f1ea)
+![System design](https://img.shields.io/badge/Backend_system_design-0d0d0f?style=flat-square&logoColor=c9a86a)
+![Databases](https://img.shields.io/badge/Database_performance-0d0d0f?style=flat-square&logo=mongodb&logoColor=47A248)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:c9a86a,100:0d0d0f&height=2&section=header" width="100%" alt="">
+
+## ◆ Contact
 
 <div align="center">
 
@@ -250,8 +247,8 @@ Advanced TypeScript, scalable Next.js architecture, backend system design and da
 
 Hiring for a Full-Stack, React or MERN role in Dubai? I would love to hear about it.
 
-**adarshp2911@gmail.com**
+[![Email me](https://img.shields.io/badge/adarshp2911@gmail.com-c9a86a?style=for-the-badge&logo=gmail&logoColor=0d0d0f&labelColor=c9a86a)](mailto:adarshp2911@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0d0d0f,100:2a2a30&height=90" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0d0d0f,100:c9a86a&height=110" alt="" width="100%">
 
 </div>
