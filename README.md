@@ -218,7 +218,7 @@ Outside of code: photography, videography and 3D work in Blender. IEEE Xtreme 15
 
 <img src="https://raw.githubusercontent.com/adarshprakasan/adarshprakasan/output/github-snake-gold.svg" alt="Contribution snake" width="100%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarshprakasan&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=adarshprakasan&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%"> -->
 
 <br>
 
