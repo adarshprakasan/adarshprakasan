@@ -190,10 +190,51 @@ Photography, videography and 3D work in Blender. IEEE Xtreme 15.0 participant. C
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshprakasan&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0f&title_color=c9a86a&text_color=bdb8ad&icon_color=c9a86a&border_radius=12&cache_seconds=86400" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshprakasan&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=c9a86a&text_color=bdb8ad&border_radius=12&cache_seconds=86400" alt="Top languages">
+<!-- Row 1: streak + profile views -->
+<img src="https://streak-stats.demolab.com/?user=adarshprakasan&hide_border=true&background=0d0d0f&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&currStreakNum=f4f1ea&sideNums=f4f1ea&sideLabels=bdb8ad&dates=bdb8ad&stroke=2a2a30&border_radius=12" alt="GitHub streak" width="62%">
+
+<br><br>
+
+<!-- Row 2: overview cards (github-profile-summary-cards, themed to the gold palette) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshprakasan&theme=dark" alt="Profile details" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshprakasan&theme=dark" alt="GitHub stats" width="49%">
+
+<br>
+
+<!-- Row 3: language cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshprakasan&theme=dark" alt="Repos per language" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshprakasan&theme=dark" alt="Most used languages" width="49%">
+
+<br><br>
+
+<!-- Row 4: contribution activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshprakasan&bg_color=0d0d0f&color=bdb8ad&line=c9a86a&point=f4f1ea&area=true&area_color=c9a86a&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" width="100%">
+
+<br>
+
+<!-- Row 5: trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=adarshprakasan&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%">
+
+<br><br>
+
+<!-- Row 6: counters -->
+<img src="https://komarev.com/ghpvc/?username=adarshprakasan&label=PROFILE+VIEWS&color=c9a86a&style=for-the-badge&labelColor=1c1a17" alt="Profile views">
+<img src="https://img.shields.io/github/followers/adarshprakasan?label=FOLLOWERS&style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=github&logoColor=c9a86a" alt="Followers">
+<img src="https://img.shields.io/github/stars/adarshprakasan?affiliations=OWNER&label=STARS+EARNED&style=for-the-badge&labelColor=1c1a17&color=0d0d0f&logo=github&logoColor=c9a86a" alt="Stars">
 
 </div>
+
+<!--
+OPTIONAL, never-breaks versions (need this README to live in the repo adarshprakasan/adarshprakasan):
+
+1) Self-generated metrics SVG (lowlighter/metrics Action, see workflow in chat).
+   Uncomment after the Action has run once:
+   <div align="center"><img src="./github-metrics.svg" alt="GitHub metrics" width="100%"></div>
+
+2) Contribution snake (Platane/snk Action writes to the "output" branch).
+   Uncomment after the Action has run once:
+   <div align="center"><img src="https://raw.githubusercontent.com/adarshprakasan/adarshprakasan/output/github-snake-dark.svg" alt="Contribution snake" width="100%"></div>
+-->
 
 <br>
 
